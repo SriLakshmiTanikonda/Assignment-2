@@ -1,0 +1,187 @@
+*{
+    font-family:system-ui, 'Segoe UI','Open Sans', 'Helvetica Neue', sans-serif;
+  }
+   .header{
+      
+    color: rgb(13, 13, 14);
+    margin-left: 10px;
+    font-size: 20px;
+  }
+  
+  .h500{
+    height: auto;
+    background-color: rgb(128, 192, 238);
+    color: #0c0d0d;
+  }
+  
+   nav .navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: auto;
+    background: rgb(128, 192, 238);
+    margin: 10px;
+    border: 3px solid rgb(46, 88, 166);
+  
+   }
+   nav .navbar .logo {
+     color: black;
+     font-size: 30px;
+     font-weight: 600;
+   }
+   nav .navbar .menu{
+     display: flex;
+   }
+   .navbar .menu li{
+     list-style: none;
+     margin: 0 15px;
+   }
+   .navbar .menu li a{
+     color: black;
+     font-size: 17px;
+     font-weight: 500;
+     text-decoration: none;
+   }
+  
+  .about{ 
+    width: auto;
+    height: auto;
+    display: flex;
+    align-content: center;
+  }
+  
+  .abt{
+    height: 40px;
+    width: 400px;
+    display: inline-block;
+    text-align:center;
+    margin: 20px;
+  }
+  .abt1{
+    width: auto;
+    height:auto;
+    margin: 25px;
+    line-height: 20px;
+    color: #101010;
+    display:inline-block;
+    padding: 30px;
+  
+  }
+  #Aboutme{
+    margin:10px;
+    height:auto;
+    width: 99%;
+    font-size: 20px;
+    border: 3px solid rgba(27, 25, 26, 0.874);
+  
+  }
+  img{
+    height: 250px;
+    width: 340px;
+    background-color: white;
+    border: 3px solid ;
+  
+  }
+  .h400{
+    height: auto;
+    width:auto;
+    background-color:rgba(14, 224, 56, 0.434);
+    color: #0d0d0d;
+    margin: 10px;
+    display: inline-block
+  }
+  
+  #Education{
+    background:rgb(128, 192, 238);
+    width:auto;
+    font-size: 20px;
+    height:auto;
+    margin: 10px;
+    padding: 10px;
+    perspective:300px;
+    border: 3px solid rgb(68, 82, 117);
+  
+  }
+  
+  
+  #Projects{
+    background:rgba(143, 223, 16, 0.249);
+    width:auto;
+    height:auto;
+    margin: 10px;
+    border: 3px solid rgb(46, 88, 166);
+    align-items: center;
+    align-content: center;
+  
+  }
+  .projectCard {
+    width:auto;
+    padding:10px;
+    height: auto;
+    perspective:400px;
+    justify-content: center;
+    font-size: 20px;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+  
+  }
+  
+  .projectTitle {
+    background-color: #0dd8a967;
+    color: rgba(27, 27, 27, 0.84);
+    padding: 5px 5px;
+    font-size: 20px;
+    height:auto;
+    width:auto;
+  }
+  
+  .projectDesc {
+  font-size: 20px;
+  text-align: center;
+  padding: 5px;
+  width:auto;
+  height:auto;
+  color:rgba(24, 23, 23, 0.836);
+  background-color:rgba(35, 21, 243, 0.358);
+  
+  }
+  #Experience{
+    margin:10px;
+    height:auto;
+    background-color:rgba(14, 224, 56, 0.434);
+    width:auto;
+    font-size: 20px;
+    border: 3px solid rgb(68, 82, 117);
+  
+  }
+  #Blogs{
+    margin:10px;
+    height:50px;
+    background-color: rgb(128, 192, 238);
+    width:auto;
+    font-size: 20px;
+    border: 3px solid rgb(68, 82, 117);
+  
+  }
+  #Footer{
+    padding:10px;
+    margin:6px;
+    height: auto;
+    background-color: rgba(143, 223, 16, 0.249);
+    width:auto;
+    font-size: 20px;
+    border: 3px solid rgb(57, 110, 67);
+    justify-content: space-around;
+    align-items: center;
+  
+  }
+  .footer{
+    
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  
+  
+  
